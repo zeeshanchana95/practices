@@ -1,0 +1,13 @@
+==>Computer History Timeline:
+=> Pre- and Early Computers
+1. Abacus(500 B.C.)
+2. Pascaline Arithmetic Machine(1642)
+3. ABC(1937)
+
+=> Programming Languages:
+1. FORTRAN (1957)
+2. COBOL (1960)
+3. C (1972-->Dennis Ritchie)
+4. BASIC (1975-->first programming language for personal computers)
+5. Java (1995-->Sun Microsystems)
+6. 
